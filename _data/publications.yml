@@ -1,14 +1,18 @@
 - title: "AI-Monitors at SemEval-2026 Task 4: A Hybrid Embedding and LLM Ensemble for Narrative Similarity"
-  authors: "<b>Vishnu Tripathi</b>, Prakhar Joshi, Azad Singh, Pragyanand Saho, Gaurav Kumar, Neel Mani, Piyush Arora"
-  type: "Workshop Paper (To Appear)"
-  venue: "SemEval-2026 Workshop"
+  authors: "<b>Vishnu Tripathi</b>, Azad Singh, Prakhar Joshi, Pragyananda Sahoo, Gaurav Kumar, Piyush Arora, Neel Mani"
+  type: "Workshop Paper"
+  venue: "Proceedings of the 20th International Workshop on Semantic Evaluation (2026)"
   year: ACL - 2026
-  description: "Shared-task system paper on narrative similarity detection, to appear in the SemEval 2026 workshop proceedings at ACL 2026"
+  description: "Shared-task system paper on narrative similarity detection, published in the SemEval 2026 workshop proceedings, pages 2139–2148"
   links:
     - label: "Task"
       url: "https://narrative-similarity-task.github.io/"
     - label: "Conference"
       url: "https://semeval.github.io/SemEval2026/"
+    - label: "Paper"
+      url: "https://aclanthology.org/2026.semeval-1.271/"
+    - label: "Code"
+      url: "https://github.com/aimonitors25/narrative-similarity-semeval2026"
 
 - title: "AI-Monitors at GenAI Detection Task 1: Fast and Scalable Machine-Generated Text Detection"
   venue: "GenAIDetect Workshop at COLING 2025"
@@ -59,9 +63,7 @@
   description: "Work on information systems in reverse logistics and green industry settings"
   links:
     - label: "Conference"
-      url: "https://aisel.aisnet.org/sigbd2025/"
-    - label: "Paper"
-      url: "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1002&context=sigbd2025"
+      url: "https://aisel.aisnet.org/sigbd2025/5/"
 
 - title: "AI and IoHT Guided Bioinformatics Solutions – Managing Stress Related Mental Health"
   venue: "PACIS (IS for Healthcare Track)"
