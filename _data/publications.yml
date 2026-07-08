@@ -81,7 +81,7 @@
   venue: "AIHW"
   year: 2025
   authors: "<b>Vishnu Tripathi</b>, Prakhar Joshi, Shastri Nimmagadda, and Neel Mani"
-  type: "Research Paper (publication in progress)"
+  type: "Research Paper (publication in-progress)"
   description: "Work on explainable AI methods for mental health detection from social media text"
   links:
     # - label: "Paper"
